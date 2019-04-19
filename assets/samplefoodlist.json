@@ -1,0 +1,46 @@
+﻿{
+  "food_items": {
+    "curl_items" : [
+    {
+      "itemName": "Asian Kale Salad",
+      "itemKCal": "20",
+      "itemServingSize": "1oz (28g)"
+    },
+    {
+      "itemName": "Broccoli And Cauliflower Salad",
+      "itemKCal": "35",
+      "itemServingSize": "1oz (28g)"
+    },
+    {
+      "itemName": "Cabbage Crunch Salad",
+      "itemKCal": "20",
+      "itemServingSize": "1oz (27g)"
+    },
+    {
+      "itemName": "Canteloupe",
+      "itemKCal": "10",
+      "itemServingSize": "1oz (28g)"
+    },
+    {
+      "itemName": "Caprese Salad",
+      "itemKCal": "30",
+      "itemServingSize": "1oz (28g)"
+    },
+    {
+      "itemName": "Cereal - Honey & Oat Granola",
+      "itemKCal": "20",
+      "itemServingSize": "1oz (28g)"
+    },
+    {
+      "itemName": "Coleslaw",
+      "itemKCal": "20",
+      "itemServingSize": "1oz (28g)"
+    },
+    {
+      "itemName": "Cucumber Tomato Salad",
+      "itemKCal": "20",
+      "itemServingSize": "1oz (27g)"
+    }
+    ]
+  }
+}

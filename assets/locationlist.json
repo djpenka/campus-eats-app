@@ -1,0 +1,34 @@
+﻿{
+  "locations" : [
+   {
+    "locationName": "Scott Traditions",
+    "locationDesc": "1,000-seat, all-you-care-to-eat dining operation with kitchens covering 2 floors",
+    "locationDistance": "200 feet away",
+    "imageUri": "0"
+  },
+  {
+    "locationName": "Connecting Grounds",
+    "locationDesc": "This unique cafe features a variety of brews and blends with beans 100% traceable fro...",
+    "locationDistance": "500 feet away",
+    "imageUri": "1"
+  },
+   {
+    "locationName": "Curl Market",
+    "locationDesc": "A marketplace style operation that offers a variety of cuisine for your needs and pref...",
+    "locationDistance": "2000 feet away",
+    "imageUri": "2"
+  },
+  {
+    "locationName": "Terra Byte Cafe",
+    "locationDesc": "A cafe to fuel your day with fresh sandwiches, yogurt parfaits, muffins, hummus, coffee...",
+    "locationDistance": "4000 feet away",
+    "imageUri": "3"
+  },
+  {
+    "locationName": "The PAD",
+    "locationDesc": "A restaurant specializing in pizza, subs, and boneless wings...",
+    "locationDistance": "4500 feet away",
+    "imageUri": "4"
+  }
+]
+}
